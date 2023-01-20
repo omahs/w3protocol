@@ -1,5 +1,17 @@
 # Changelog
 
+## [9.3.0](https://github.com/web3-storage/w3protocol/compare/access-v9.2.0...access-v9.3.0) (2023-01-20)
+
+
+### Features
+
+* access-api forwards store/ and upload/ invocations to upload-api ([#334](https://github.com/web3-storage/w3protocol/issues/334)) ([b773376](https://github.com/web3-storage/w3protocol/commit/b77337692d9e4580031c429c429d4055d6f6ebff))
+
+
+### Bug Fixes
+
+* remove unecessary awaits ([#352](https://github.com/web3-storage/w3protocol/issues/352)) ([64da6e5](https://github.com/web3-storage/w3protocol/commit/64da6e50c4d0d0ef3b78c00298769665463e421d))
+
 ## [9.2.0](https://github.com/web3-storage/w3protocol/compare/access-v9.1.1...access-v9.2.0) (2022-12-14)
 
 

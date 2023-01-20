@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0](https://github.com/web3-storage/w3protocol/compare/capabilities-v2.1.0...capabilities-v2.2.0) (2023-01-20)
+
+
+### Features
+
+* access-api forwards store/ and upload/ invocations to upload-api ([#334](https://github.com/web3-storage/w3protocol/issues/334)) ([b773376](https://github.com/web3-storage/w3protocol/commit/b77337692d9e4580031c429c429d4055d6f6ebff))
+* embedded key resolution ([#312](https://github.com/web3-storage/w3protocol/issues/312)) ([4da91d5](https://github.com/web3-storage/w3protocol/commit/4da91d5f7f798d0d46c4df2aaf224610a8760d9e))
+
+
+### Bug Fixes
+
+* fix client cli service did resolve ([#292](https://github.com/web3-storage/w3protocol/issues/292)) ([6be9608](https://github.com/web3-storage/w3protocol/commit/6be9608a907665a8123938ef804bebfffc5c7232))
+
 ## [2.1.0](https://github.com/web3-storage/w3protocol/compare/capabilities-v2.0.0...capabilities-v2.1.0) (2022-12-13)
 
 
